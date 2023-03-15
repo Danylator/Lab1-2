@@ -1,0 +1,17 @@
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\bin\Debug\net6.0\IT-Labs.exe
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\bin\Debug\net6.0\IT-Labs.deps.json
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\bin\Debug\net6.0\IT-Labs.runtimeconfig.json
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\bin\Debug\net6.0\IT-Labs.dll
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\bin\Debug\net6.0\IT-Labs.pdb
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\IT-Labs.csproj.AssemblyReference.cache
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\IT-Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\IT-Labs.AssemblyInfoInputs.cache
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\IT-Labs.AssemblyInfo.cs
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\IT-Labs.csproj.CoreCompileInputs.cache
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\IT-Labs.dll
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\refint\IT-Labs.dll
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\IT-Labs.pdb
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\IT-Labs.genruntimeconfig.cache
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\ref\IT-Labs.dll
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dkosm\source\repos\IT-Labs\IT-Labs\obj\Debug\net6.0\IT-Labs.csproj.CopyComplete
