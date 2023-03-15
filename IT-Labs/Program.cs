@@ -5,23 +5,26 @@ public class Program
 {
     public static void Main()
     {
-        Person[] p = new Person[6];
-        p[0] = new Person("Tom");
-        p[1] = new Person("Jenn");
-        p[2] = new Person("Ronny");
-        p[3] = new Person("Tom");
-        p[4] = new Person("Tolik");
-        p[5] = new Person("Jenn");
+        Dictionary<int, string> p = new Dictionary<int, string>();
+       // Person[] p = new Person[6];
+        p.Add(0,"Tom");
+        p.Add(1,"Jenn");
+        p.Add(2,"Ronny");
+        p.Add(3,"Tom");
+        p.Add(4,"Tolik");
+        p.Add(5,"Jenn");
+ 
 
-
-        List<Person> s = new List<Person>();
+        
+         List<string> s =  new List<string>();
         bool flag = true;
-        for (int i = 0; i < p.Length; i++)
+     
+        for (int i = 0; i < p.Count; i++)
         {
             flag = true;
             foreach (var item in s)
             {
-                if (item.Name == p[i].Name)
+                if (item.Contains(p[i]))
                 {
                     flag = false;
                     break;
